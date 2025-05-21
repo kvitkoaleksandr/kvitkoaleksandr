@@ -14,7 +14,7 @@ Java-разработчик с опытом более 1 года в коман�
 
 📍 С мая 2025 работаю в проекте, полностью интегрированном с GitLab  
 → [https://tilapemjag.beget.app/ak](https://tilapemjag.beget.app/ak)  
-👉 Поэтому активность на GitHub временно снижена: [github.com/kvitkoaleksandr](https://github.com/kvitkoaleksandr)
+👉 Поэтому активность на GitHub временно снижена.
 
 🚀 **В ближайших планах**:
 Изучение и применение современных инструментов: Kubernetes, Apache Kafka Streams, Spring Cloud, OpenTelemetry, Apache Cassandra, Elasticsearch, gRPC, WebSockets, Keycloak, OAuth2/OIDC, Testcontainers, WireMock, Liquibase и Flyway.
