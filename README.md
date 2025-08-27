@@ -1,24 +1,22 @@
-# Привет, я Александр 👋
+# Hi, I’m Alexander 👋
 
-Java-разработчик с опытом более 1 года в командной разработке микросервисных и монолитных приложений.  
-Работал в стартапах и продуктовых проектах: от создания REST API и GraphQL-контроллеров до проектирования бизнес-логики и CI/CD-процессов.  
-Уверенно применяю современные подходы к разработке, участвую в архитектурных обсуждениях, code review и командной работе по Scrum и Puzzle Driven Development.
+Java developer with 1+ year of experience building microservice and monolithic applications in team settings. I’ve worked in startups and product teams: from creating REST APIs and GraphQL controllers to designing business logic and CI/CD pipelines. I confidently apply modern development practices and take part in architecture discussions, code reviews, and teamwork under Scrum and Puzzle-Driven Development.
 
-🛠️ **Стек, с которым работаю на практике**:
-- Языки и фреймворки: Java 17/21, Spring Boot, Spring Data, Spring Security, Spring WebFlux, Hibernate, JPA
-- Базы данных и работа с ними: PostgreSQL, JDBC, Redis, Kafka, NoSQL
+🛠️ **Tech stack I use in practice**:
+- Languages & frameworks: Java 17/21, Spring Boot, Spring Data, Spring Security, Spring WebFlux, Hibernate, JPA
+- Databases & data: PostgreSQL, JDBC, Redis, Kafka, NoSQL
 - API: REST, GraphQL (Spring for GraphQL)
-- CI/CD и инструменты: Gradle, Docker, Git, GitFlow, GitHub Actions, GitLab CI
-- Тестирование: JUnit 5, Mockito, интеграционные и unit-тесты
-- Командная работа: Jira, Miro, Discord
+- CI/CD & tools: Gradle, Docker, Git, GitFlow, GitHub Actions, GitLab CI
+- Testing: JUnit 5, Mockito, интеграционные и unit-тесты
+- Collaboration: Jira, Miro, Discord
 
-📍 С мая 2025 работаю в проекте, полностью интегрированном с GitLab  
+📍 Since May 2025 I’ve been working on a project fully integrated with GitLab  
 → [https://tilapemjag.beget.app/ak](https://tilapemjag.beget.app/ak)  
-👉 Поэтому активность на GitHub временно снижена.
+👉 As a result, my GitHub activity is temporarily reduced.
 
-🚀 **В ближайших планах**:
-Изучение и применение современных инструментов: Kubernetes, Apache Kafka Streams, Spring Cloud, OpenTelemetry, Apache Cassandra, Elasticsearch, gRPC, WebSockets, Keycloak, OAuth2/OIDC, Testcontainers, WireMock, Liquibase и Flyway.
+🚀 **Near-term plans**:
+learn and apply modern tools — Kubernetes, Apache Kafka Streams, Spring Cloud, OpenTelemetry, Apache Cassandra, Elasticsearch, gRPC, WebSockets, Keycloak, OAuth2/OIDC, Testcontainers, WireMock, Liquibase, and Flyway.
 
-📫 **Контакты**:
+📫 **Contacts**:
 - Telegram: [@alex_kvitok](https://t.me/alex_kvitok)
 - Email: kvitok-9933@mail.ru
