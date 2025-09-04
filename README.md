@@ -1,22 +1,31 @@
-# Hi, I’m Alexander 👋
+# Hi, I’m Alexander 👋  
+**System Analyst & Java Developer**
 
-Java developer with 1+ year of experience building microservice and monolithic applications in team settings. I’ve worked in startups and product teams: from creating REST APIs and GraphQL controllers to designing business logic and CI/CD pipelines. I confidently apply modern development practices and take part in architecture discussions, code reviews, and teamwork under Scrum and Puzzle-Driven Development.
+I have 1.5+ years of experience in IT, working both as a Java developer and with a focus on system analysis.  
+I started my career as a developer (REST/GraphQL APIs, business logic, CI/CD pipelines) and now I’m moving into system analysis — requirements gathering, process modeling, API specifications, and communication between stakeholders and development teams.  
 
-🛠️ **Tech stack I use in practice**:
-- Languages & frameworks: Java 17/21, Spring Boot, Spring Data, Spring Security, Spring WebFlux, Hibernate, JPA
-- Databases & data: PostgreSQL, JDBC, Redis, Kafka, NoSQL
-- API: REST, GraphQL (Spring for GraphQL)
-- CI/CD & tools: Gradle, Docker, Git, GitFlow, GitHub Actions, GitLab CI
-- Testing: JUnit 5, Mockito, интеграционные и unit-тесты
-- Collaboration: Jira, Miro, Discord
+---
 
-📍 Since May 2025 I’ve been working on a project fully integrated with GitLab  
-→ [https://tilapemjag.beget.app/ak](https://tilapemjag.beget.app/ak)  
-👉 As a result, my GitHub activity is temporarily reduced.
+## 🔧 Tech & tools I use
 
-🚀 **Near-term plans**:
-learn and apply modern tools — Kubernetes, Apache Kafka Streams, Spring Cloud, OpenTelemetry, Apache Cassandra, Elasticsearch, gRPC, WebSockets, Keycloak, OAuth2/OIDC, Testcontainers, WireMock, Liquibase, and Flyway.
+- **Analysis & communication:** UML, BPMN, Confluence, Jira, Miro, User Stories, Use Cases, Acceptance Criteria  
+- **Databases & data:** PostgreSQL, SQL, Redis, MongoDB  
+- **APIs:** REST, GraphQL, Swagger, Postman  
+- **Tech background:** Java 17/21, Spring Boot, Spring Data, Spring Security, Hibernate, JPA  
+- **Collaboration & delivery:** GitLab CI/CD, Docker, Git, GitFlow, GitHub Actions, Testcontainers  
 
-📫 **Contacts**:
-- Telegram: [@alex_kvitok](https://t.me/alex_kvitok)
-- Email: kvitok-9933@mail.ru
+---
+
+## 📌 Current project
+Since May 2025, I’ve been working on a medical project fully integrated with GitLab, where Puzzle Driven Development and DDD/CQRS give me strong exposure to **system analysis and architecture**.  
+
+---
+
+## 🚀 Next steps
+I’m looking to grow as a **System Analyst**, leveraging my technical background to bridge the gap between business needs and development.  
+
+---
+
+## 📬 Contacts
+- Telegram: [@alex_kvitok](https://t.me/alex_kvitok)  
+- Email: kvitok-9933@mail.ru  
