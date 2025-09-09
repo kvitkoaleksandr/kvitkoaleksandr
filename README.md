@@ -9,7 +9,7 @@ I have 1.5+ years of experience in IT, working on projects that included both mo
 - Test coverage (unit/integration), test data management (Testcontainers)
 - Observability: structured logging, metrics, tracing; production debugging
 - Code review, refactoring, documentation (Confluence), task tracking (Jira)
-- 
+  
 ## Tech & Tools
 
 — Java 8/17/21, Spring Boot, Spring Data, Spring Security, Hibernate, JPA  
